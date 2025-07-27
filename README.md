@@ -1,16 +1,37 @@
-# myapp
+📚 E2e Rosh EduSahayak AI
+Empowering Teachers in Multi-Grade Classrooms Using Generative AI
+🌟 Overview
+E2e Rosh EduSahayak is an AI-powered multilingual teaching assistant designed to support government school teachers who manage multi-grade, low-resource classrooms in rural and tribal regions across India. The platform simplifies lesson planning, content creation, student evaluation, and learning differentiation—all in one unified interface.
 
-A new Flutter project.
+Built with cutting-edge technologies like Google Gemini, Vertex AI, and Firebase, EduSahayak works offline and in local languages, enabling teachers to generate curriculum-aligned content in seconds.
 
-## Getting Started
+🧠 Problem Statement
+In under-resourced classrooms, especially in rural India, a single teacher is often responsible for teaching multiple grade levels simultaneously. These teachers face serious constraints:
 
-This project is a starting point for a Flutter application.
+⏱️ Limited Time & Resources
 
-A few resources to get you started if this is your first Flutter project:
+🌍 Lack of Localized Content
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+📊 No Personalized Support or Insights
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+EduSahayak addresses these challenges by acting as a true AI-powered co-teacher.
+
+💡 Solution Summary
+✨ Key Features
+Feature	Description
+🗣️ Multilingual Voice & Text Assistant	Teachers interact via voice or text in their local language
+🧾 Curriculum-Aligned Content Generator	Creates personalized worksheets, lesson plans, and visual aids
+🎯 Assessment Evaluation Tools	Automatically evaluates student answer sheets and provides feedback
+🎨 Visual Aid Generator	Generates images for concepts using Imagen via Vertex AI
+🧒 Grade-wise Differentiation	Tailors learning materials to diverse levels in one classroom
+📴 Offline Mode	Works offline with Firebase sync, ideal for remote schools
+🧪 Interactive Learning Modules	Quizzes, activities, and storytelling for engagement
+
+⚙️ Tech Stack
+Tech	Use
+🧠 Google Gemini (Generative AI)	Handles natural language prompts for lesson plans, evaluations, etc.
+🧰 Firebase	Authentication, real-time data sync, offline-first architecture
+☁️ Google Cloud Platform (GCP)	Cloud infrastructure for scale, data hosting
+🧾 Vertex AI (Imagen, OCR)	Powers image generation and document processing
+📱 Flutter	Cross-platform app for teachers with offline UI access
+
