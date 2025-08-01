@@ -35,7 +35,7 @@ for collection_name in collections:
 users_collection = db['users']
 admin_user = {
     'username': 'admin',
-    'password': generate_password_hash('admin123'),
+    'password': generate_password_hash('admin'),
     'role': 'admin',
     'active': True
 }
