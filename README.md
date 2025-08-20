@@ -1,11 +1,11 @@
-# 📚 E2e Rosh EduSahayak AI  
+# 📚 E2e EduSahayak AI  
 # Empowering Teachers in Multi-Grade Classrooms Using Generative AI
 ***Backend Deployment : [http://173.212.242.240:5005/swagger]***
 ---
 
 ## 🌟 Overview
 
-**E2e Rosh EduSahayak** is an AI-powered multilingual teaching assistant designed to support government school teachers who manage multi-grade, low-resource classrooms in rural and tribal regions across India.  
+**E2e EduSahayak** is an AI-powered multilingual teaching assistant designed to support government school teachers who manage multi-grade, low-resource classrooms in rural and tribal regions across India.  
 The platform simplifies **lesson planning, content creation, student evaluation**, and **learning differentiation**—all in one unified interface.
 
 Built using cutting-edge technologies like **Google Gemini**, **Vertex AI**, and **Firebase**, EduSahayak works **offline** and in **local languages**, enabling teachers to generate curriculum-aligned content in seconds.
